@@ -1,0 +1,15 @@
+14:51:39.278 [TestNG-tests-1] INFO  testCases.TestCase - Clicked on year button..
+14:51:39.545 [TestNG-tests-1] INFO  testCases.TestCase - Clicked on month button..
+14:51:39.847 [TestNG-tests-1] INFO  testCases.TestCase - Validating the Expected message!
+14:51:39.848 [TestNG-tests-1] INFO  testCases.TestCase - ********Finished TestCase EMI Calculator*********
+14:51:39.855 [TestNG-tests-1] INFO  testCases.TestCase - ********Starting TestCase UI Check in Loan Calculator*********
+14:51:39.857 [TestNG-tests-1] INFO  testCases.TestCase - Entering the valid inputs..
+14:51:42.080 [TestNG-tests-1] INFO  testCases.TestCase - Validating the Expected message!
+14:51:42.082 [TestNG-tests-1] INFO  testCases.TestCase - ********Finished TestCase UI Check in Loan Calculator*********
+14:51:42.087 [TestNG-tests-1] INFO  testCases.TestCase - ********Starting TestCase Loan Calculator*********
+14:51:42.206 [TestNG-tests-1] INFO  testCases.TestCase - Clicked on year button..
+14:51:42.531 [TestNG-tests-1] INFO  testCases.TestCase - Clicked on month button..
+14:51:42.764 [TestNG-tests-1] INFO  testCases.TestCase - ********Finished TestCase Loan Calculator*********
+14:51:42.773 [TestNG-tests-1] INFO  testCases.TestCase - ********Starting TestCase UI Check for Loan Tenure Calculator*********
+14:51:43.585 [TestNG-tests-1] INFO  testCases.TestCase - Validating the Expected message!
+14:51:43.586 [TestNG-tests-1] INFO  testCases.TestCase - ********Finished TestCase UI Check for Loan Tenure Calculator*********
